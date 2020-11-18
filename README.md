@@ -12,15 +12,15 @@
     </a>
 </p>
 
-## About Me
+### About Me
 
 I am a self-taught programmer and an Electrical and Electronics Engineering student. From engineering to writing code I learned to connect physical sensors to the digital code. For more information about me check out [raaedkabir.com](https://www.raaedkabir.com/).
 
-## Web App Development
+### Web App Development
 
 JavaScript is my best stack which lets me combine my two biggest passions, designing and coding, and make me realize I could make a living out of something I enjoyed. 
 
-## Full-Stack Development
+### Full-Stack Development
 
 I started out writing Back-Ends in Django with Python and then transitioned to the Front-End side learning Vue along the way. I found it more rewarding to create websites that I could see visually and embrace the designing aspect I sought. I then dipped back into the Back-End with Node and Serverless Technologies with Amazon Web Services. I love using these new skills to create awesome things.
 
