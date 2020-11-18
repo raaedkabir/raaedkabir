@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raaed!</h1>
+<h1 align="center">Hello World, I'm Raaed!</h1>
 
 <p align="center">
     <a href="https://www.raaedkabir.com">
@@ -23,6 +23,8 @@ JavaScript is my best stack which lets me combine my two biggest passions, desig
 ### Full-Stack Development
 
 I started out writing Back-Ends in Django with Python and then transitioned to the Front-End side learning Vue along the way. I found it more rewarding to create websites that I could see visually and embrace the designing aspect I sought. I then dipped back into the Back-End with Node and Serverless Technologies with Amazon Web Services. I love using these new skills to create awesome things.
+
+<br />
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
