@@ -28,16 +28,16 @@ I started out writing Back-Ends in Django with Python and then transitioned to t
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ToddLowell&show_icons=true&hide=contribs,issues&theme=chartreuse-dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=raaedkabir&show_icons=true&hide=contribs,issues&theme=chartreuse-dark" />
    </a>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToddLowell&layout=compact&langs_count=6&theme=chartreuse-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaedkabir&layout=compact&langs_count=6&theme=chartreuse-dark" />
    </a>
 </p>
 
 <!--
-**ToddLowell/ToddLowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**raaedkabir/raaedkabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
